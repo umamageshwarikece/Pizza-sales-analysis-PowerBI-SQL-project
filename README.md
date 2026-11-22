@@ -1,1 +1,1 @@
-# Power-BI-SQK-project
+# Pizza sales abalysis SQL PowerBI
